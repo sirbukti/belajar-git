@@ -1,3 +1,5 @@
 Belajar Git dengan perintah dasar yang sudah dipelajari.
 
 Ini sudah dirumah menjadi versi 2.
+
+saya melakukan revisi versi ke 3
